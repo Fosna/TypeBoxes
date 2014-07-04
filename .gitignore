@@ -184,3 +184,4 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+src/TypeBoxes/TypeBoxes/ts/*.js,src/TypeBoxes/TypeBoxes/ts/*.js.map
