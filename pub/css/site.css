@@ -1,0 +1,5 @@
+.rect {
+    background-color: lime;
+    border: black solid 3px;
+    position: absolute;
+}
