@@ -59,7 +59,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="js\metalBoxes.js.map" />
+    <Content Include="ts\metalBoxes.js.map" />
     <Content Include="packages.config" />
     <Content Include="Scripts\backbone.js" />
     <Content Include="Scripts\backbone.min.js" />
@@ -86,7 +86,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="js\boxes.ts" />
+    <TypeScriptCompile Include="ts\boxes.ts" />
     <TypeScriptCompile Include="Scripts\typings\backbone\backbone.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\jquery\jquery.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\underscore\underscore.d.ts" />
